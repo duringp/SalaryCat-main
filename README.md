@@ -1,5 +1,5 @@
 # SalaryCat-main
-月薪猫跳舞源代码
+月薪猫跳舞源代码（附带音效和GIF版本）
 # Salary Cat (Yuexin Miao)
 
 # 我真的特别爱你 月薪喵 小猫 月薪猫
