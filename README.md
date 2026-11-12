@@ -1,6 +1,6 @@
 # SalaryCat-main
 月薪猫跳舞源代码（附带音效和GIF版本）
-已经从github开源
+已经从github开源，本项目为拉取项目
 # Salary Cat (Yuexin Miao)
 
 # 我真的特别爱你 月薪喵 小猫 月薪猫
